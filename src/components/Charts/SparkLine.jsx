@@ -33,3 +33,4 @@ const SparkLine = ({ id, height, width, color, data, type, currentColor }) => {
 }
 
 export default SparkLine
+
