@@ -40,7 +40,7 @@ module.exports = {
             },
             backgroundImage: {
                 'hero-pattern':
-                    "url('https://img.freepik.com/premium-vector/office-worker-illustration-creative-people-presentation-setting-start-up-discussion-business-team-working-together-big-desk-using-laptops-flat-illustration_181182-3199.jpg?w=2000')",
+                    "url('https://visme.co/blog/wp-content/uploads/2020/07/Header-1200-6.jpg')",
             },
         },
     },
